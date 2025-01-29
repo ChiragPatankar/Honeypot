@@ -1,0 +1,7 @@
+{"timestamp": "2024-12-31 21:28:56", "website": "Website2", "event": "Anomalous activity detected: SQL Injection"}
+{"timestamp": "2024-12-31 21:32:56", "website": "Website2", "event": "Successful login"}
+{"timestamp": "2024-12-31 21:35:19", "website": "Website2", "event": "Successful login"}
+{"timestamp": "2024-12-31 21:35:46", "website": "Website2", "event": "Anomalous activity detected: SQL Injection"}
+{"timestamp": "2024-12-31 21:36:05", "website": "Website2", "event": "Anomalous activity detected: XSS"}
+{"timestamp": "2025-01-27 10:16:49", "website": "Website2", "event": "Failed login attempt"}
+{"timestamp": "2025-01-27 10:19:06", "website": "Website2", "event": "Successful login"}
